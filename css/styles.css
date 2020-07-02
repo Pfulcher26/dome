@@ -5,4 +5,12 @@
   margin: auto;
   width: 50%;
 }
+
+.column {
+  column-count: 2;
+  column-gap: 40px;
+}
  
+.title {
+  font-size:100px;
+}
