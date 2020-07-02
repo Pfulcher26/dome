@@ -1,9 +1,8 @@
 .container { 
   font-family: 'EB Garamond', serif;
-  text-align: left;
-  border: 1px solid rgb(238, 210, 214); 
-  padding: 10;
-  background-color: whitesmoke;
+  text-align: center;  
+  padding: 10;  
   margin: auto;
   width: 50%;
 }
+ 
